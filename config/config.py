@@ -4,10 +4,10 @@ class Config:
     """Global configuration settings - OPTIMIZED"""
 
     GOOGLE_API_KEY = os.getenv(
-        "GOOGLE_API_KEY", "AIzaSyD3u_bahMJuEWTWQfTHgWrizY8q8j-9-2M"
+        "GOOGLE_API_KEY", ""
     )
     TAVILY_API_KEY = os.getenv(
-        "TAVILY_API_KEY", "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"
+        "TAVILY_API_KEY", ""
     )
 
     # Storage directories
