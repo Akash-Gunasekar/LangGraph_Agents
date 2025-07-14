@@ -77,7 +77,7 @@ This project requires API keys for certain services.
      (On Windows, use `set TAVILY_API_KEY="your_tavily_api_key_here"`)
 2. **Google API Key (for embeddings):**
 
-   - Obtain a Google API key from the [Google Cloud Console](https://console.cloud.google.com/).
+   - Obtain a Google API key from the [Google AI Sudio](https://aistudio.google.com/apikey/).
    - Enable the Gemini API.
    - Set it as an environment variable:
 
